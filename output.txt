@@ -1,0 +1,48 @@
+Start train for lr=0.1, batch_size=50, n_epoch=5
+	Train time= 7.700 seconds
+	mean accuracy: 0.6980
+Start train for lr=0.1, batch_size=250, n_epoch=29
+	Train time= 30.125 seconds
+	mean accuracy: 0.7124
+Start train for lr=0.1, batch_size=500, n_epoch=59
+	Train time= 60.515 seconds
+	mean accuracy: 0.7018
+Start train for lr=0.1, batch_size=1000, n_epoch=119
+	Train time= 123.486 seconds
+	mean accuracy: 0.7023
+Start train for lr=0.05, batch_size=50, n_epoch=5
+	Train time= 7.630 seconds
+	mean accuracy: 0.7142
+Start train for lr=0.05, batch_size=250, n_epoch=29
+	Train time= 29.887 seconds
+	mean accuracy: 0.7139
+Start train for lr=0.05, batch_size=500, n_epoch=59
+	Train time= 60.523 seconds
+	mean accuracy: 0.7047
+Start train for lr=0.05, batch_size=1000, n_epoch=119
+	Train time= 124.036 seconds
+	mean accuracy: 0.7169
+Start train for lr=0.01, batch_size=50, n_epoch=5
+	Train time= 7.601 seconds
+	mean accuracy: 0.7346
+Start train for lr=0.01, batch_size=250, n_epoch=29
+	Train time= 30.002 seconds
+	mean accuracy: 0.7301
+Start train for lr=0.01, batch_size=500, n_epoch=59
+	Train time= 60.115 seconds
+	mean accuracy: 0.7189
+Start train for lr=0.01, batch_size=1000, n_epoch=119
+	Train time= 124.539 seconds
+	mean accuracy: 0.7245
+Start train for lr=0.001, batch_size=50, n_epoch=5
+	Train time= 7.807 seconds
+	mean accuracy: 0.6411
+Start train for lr=0.001, batch_size=250, n_epoch=29
+	Train time= 30.438 seconds
+	mean accuracy: 0.6656
+Start train for lr=0.001, batch_size=500, n_epoch=59
+	Train time= 56.668 seconds
+	mean accuracy: 0.6787
+Start train for lr=0.001, batch_size=1000, n_epoch=119
+	Train time= 115.480 seconds
+	mean accuracy: 0.6900
